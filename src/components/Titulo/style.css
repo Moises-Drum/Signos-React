@@ -1,0 +1,13 @@
+nav{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 6vh;
+    border-radius: 10px 10px 0 0;
+}
+
+h1{
+    text-align: center;
+    color: aqua;
+}
