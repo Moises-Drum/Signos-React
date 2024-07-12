@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/signos-react/static/css/main.44af52eb.css",
+    "main.js": "/signos-react/static/js/main.ae8a3fca.js",
+    "static/js/453.ed5e3d1f.chunk.js": "/signos-react/static/js/453.ed5e3d1f.chunk.js",
+    "index.html": "/signos-react/index.html",
+    "main.44af52eb.css.map": "/signos-react/static/css/main.44af52eb.css.map",
+    "main.ae8a3fca.js.map": "/signos-react/static/js/main.ae8a3fca.js.map",
+    "453.ed5e3d1f.chunk.js.map": "/signos-react/static/js/453.ed5e3d1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44af52eb.css",
+    "static/js/main.ae8a3fca.js"
+  ]
+}
